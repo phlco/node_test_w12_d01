@@ -1,0 +1,23 @@
+{
+  "name": "@phlco/hw_w012_d01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phlco/hw_w012_d01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phlco/hw_w012_d01/issues"
+  },
+  "homepage": "https://github.com/phlco/hw_w012_d01#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
